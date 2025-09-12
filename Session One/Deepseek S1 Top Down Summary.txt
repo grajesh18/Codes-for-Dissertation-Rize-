@@ -1,0 +1,27 @@
+ACT-Informed Summary:
+
+<think>
+Hmm, the user wants me to summarize a therapy session using ACT principles. They've provided extensive background on ACT theory and a transcript of a session between a therapist (T) and client (C).
+
+Looking at the session, I notice several key ACT principles being demonstrated. The client expresses worry about not fully understanding the therapy approach, which shows cognitive fusion (taking thoughts literally) and experiential avoidance (discomfort with uncertainty). The therapist skillfully addresses this by distinguishing between descriptive language and functional language - this relates to ACT's cognitive defusion principle.
+
+The therapist uses the sports analogy (ski instructor talking too much) to illustrate how overthinking creates obstacles. This demonstrates contact with the present moment - encouraging direct experience over excessive analysis. The therapist explicitly values flexibility ("freedom to be inconsistent") over rigid adherence to theory, which aligns with ACT's emphasis on psychological flexibility.
+
+I also notice the therapist prioritizing experiential progress over intellectual understanding ("progress comes first—then the understanding"), which reflects ACT's commitment to valued action. The client's willingness to "go on faith" shows early acceptance of this process-oriented approach.
+
+For my summary, I'll organize it around the core ACT principles shown: cognitive defusion, acceptance, contact with present moment, and committed action. I'll quote relevant dialogue and explain how each interaction illustrates these principles. This should give the user a clear ACT-based analysis of the therapeutic process in this session.
+</think>
+Here's an ACT-based summary of the session, identifying core principles reflected:
+
+1.  **Addressing Cognitive Fusion & Promoting Defusion:**
+    *   **Reflected in:** Client's worry about the therapist's inability to fully *describe* the therapy ("if you can’t tell other people what it is that you do... then you don’t really understand it yourself"). The client is fused with the idea that complete intellectual understanding is necessary and a sign of competence.
+    *   **Therapist's ACT-aligned Response:** T makes the crucial distinction between descriptive talk (like a *reporter*) and functional talk (like a *coach*). T emphasizes that the *purpose* of language in therapy is "to make a difference," not just to describe accurately ("As long as the words do what they’re supposed to do... that’s cool"). This directly challenges the fused belief that perfect description equals understanding/effectiveness and promotes defusion by highlighting the *function* of language over its literal content.
+
+2.  **Undermining Experiential Avoidance & Introducing Acceptance:**
+    *   **Reflected in:** Client's explicit statement that not fully understanding the therapy "makes me a bit worried, which I don’t really like." This shows an aversion to the internal experience of worry/uncertainty.
+    *   **Therapist's ACT-aligned Response:** While not explicitly labeling the worry, T implicitly addresses the avoidance by shifting focus to the *function* of therapy talk and the potential *cost* of demanding perfect description (intellectual entanglement). By suggesting progress might come *before* full understanding and that demanding logical consistency upfront could be an obstacle, T creates space for the client to potentially *accept* the discomfort of uncertainty as part of the process ("I’m willing to go on faith for a while").
+
+3.  **Promoting Contact with the Present Moment (Experiential Focus):**
+    *   **Reflected in:** T's use of the skiing analogy. T highlights how excessive verbal instruction (intellectualizing) pulls the skier out of direct experience ("thinking too much," "Where do my feet go?," "feel awkward and stupid"). This directly illustrates the problem of losing contact with the present moment due to cognitive entanglement.
+    *   **Therapist's ACT-aligned Response:** T explicitly states the goal is to avoid becoming "all entangled in theory" and "tak[ing] our eye off what we are really trying to do." This prioritizes direct
+
