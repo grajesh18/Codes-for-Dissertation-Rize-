@@ -10,7 +10,7 @@ This repository contains code and data for a project exploring the use of Large 
 
 4. Messages: Between-session notifications generated from summarised data to reinforce therapeutic themes.
 
-5.Quantitative Analysis: Readability and linguistic complexity metrics (e.g., Flesch Reading Ease, Dale–Chall Readability, Sentence Length, Lexicon Count, Sentence Count) for each output.
+5. Quantitative Analysis: Readability and linguistic complexity metrics (e.g., Flesch Reading Ease, Dale–Chall Readability, Sentence Length, Lexicon Count, Sentence Count) for each output.
 
 6. The average metrics across all sessions were calculated manually to compare LLM performance.
 
